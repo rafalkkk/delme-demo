@@ -2,3 +2,4 @@ Plans for Monday:
 
 - Training Git
 - Work
+- Coffee
