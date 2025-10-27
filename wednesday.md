@@ -1,6 +1,6 @@
 TASKS
 =====
 
-- kupic znicze
-- zadzwonic do managerki
-- call grupy
+- Kupic znicze
+- Zadzwonic do managerki
+- Call grupy
